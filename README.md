@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://idevart.my.id](https://idevart.my.id)
 
-- 📫 How to reach me **febriarief6661@gmail.com**
+- 📫 How to reach me **febri@idevart.my.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
