@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **AI Development**
 
-- 👨‍💻 All of my projects are available at [https://idevart.my.id](https://idevart.my.id)
+- 👨‍💻 All of my projects are available at [https://idevarts.com](https://idevarts.com)
 
-- 📫 How to reach me **febri@idevart.my.id**
+- 📫 How to reach me **febri@idevarts.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
