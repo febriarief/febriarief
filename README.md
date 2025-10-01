@@ -68,6 +68,6 @@
   </a> 
 </p>
 
-![febriarief's Stats](https://github-readme-stats.vercel.app/api?username=febriarief&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![febriarief's Streak](https://github-readme-streak-stats.herokuapp.com/?user=febriarief&theme=vue-dark&hide_border=true)
-![febriarief's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febriarief&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![febriarief's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febriarief&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)<br/>
+![febriarief's Stats](https://github-readme-stats.vercel.app/api?username=febriarief&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&layout=compact)<br/>
+![febriarief's Streak](https://github-readme-streak-stats.herokuapp.com/?user=febriarief&theme=vue-dark&hide_border=true&layout=compact)
