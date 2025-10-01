@@ -68,6 +68,6 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=febriarief&show_icons=true&locale=en&layout=compact" alt="febriarief" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=febriarief&show_icons=true&locale=en" alt="febriarief" /></p>
+![febriarief's Stats](https://github-readme-stats.vercel.app/api?username=febriarief&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![febriarief's Streak](https://github-readme-streak-stats.herokuapp.com/?user=febriarief&theme=vue-dark&hide_border=true)
+![febriarief's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=febriarief&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
